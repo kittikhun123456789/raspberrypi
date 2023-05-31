@@ -10,9 +10,9 @@
 
 ---
 
-## 2. Convolutional Neural Network: CNN :point_right: [Click here](https://github.com/WiratchawaKannika/AIprototype65/blob/main/lecture/NeuralNetwork.md)
 
----
+
+
 
 
 
