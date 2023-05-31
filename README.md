@@ -6,7 +6,7 @@
 
 > # **Content** :exclamation:
 
-## 1. Basic Linux Command :point_right: [Click here](https://github.com/WiratchawaKannika/AIprototype65/blob/main/lecture/CommandLineUbuntu.md) 
+## 1. Basic Linux Command :point_right: [Click here](https://github.com/kittikhun123456789/raspberrypi/blob/main/linux.md)
 
 ---
 
