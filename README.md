@@ -1,5 +1,5 @@
 # raspberrypi
-## Accelerometer [Click here](https://github.com/kittikhun123456789/Adafruit_Python_ADXL345)
+## Accelerometer [Click here](https://github.com/kittikhun123456789/adxl335)
 > 
 
 ---
