@@ -1,5 +1,5 @@
 # raspberrypi
-## ADC [Click here]([https://github.com/kittikhun123456789/ADS1x15-ADC.git])
+## ADC : [Click here](https://github.com/kittikhun123456789/ADS1x15-ADC.git)
 > 
 
 ---
