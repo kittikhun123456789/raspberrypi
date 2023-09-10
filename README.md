@@ -10,6 +10,9 @@
 
 ---
 
+# Development Code ACC to ADC
+** code 1 : new_ADS_read.py [Click here](https://github.com/kittikhun123456789/ADS1x15-ADC/blob/main/examples/new_ADS_read.py)> 
+
 
 
 
